@@ -1,0 +1,1 @@
+Facoltativo: PNG trasparenti 600x600 (gift, candy-cane, stocking, snow-globe, gingerbread). Oggi le illustrazioni sono SVG in components/Illustrations.js.
